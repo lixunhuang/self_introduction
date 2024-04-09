@@ -28,6 +28,10 @@ body{
     color: #353535;
     font: 16px/1.5 'Microsoft Yahei', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
 }
+.img-custom-size {
+    width: 1438px;
+    height: 1080px;
+}
 
 @media screen and (max-width: 500px){
     html[resize] body{
